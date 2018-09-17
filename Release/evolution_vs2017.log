@@ -1,0 +1,8 @@
+﻿  template.cpp
+  game.cpp
+c:\users\tom\documents\uu\opt-and-vect\assignment1\infomov2018_assignment1_evolution\game.cpp(138): warning C4244: '=': conversion from 'unsigned long' to 'unsigned short', possible loss of data
+c:\users\tom\documents\uu\opt-and-vect\assignment1\infomov2018_assignment1_evolution\game.cpp(183): warning C4244: '=': conversion from 'unsigned long' to 'unsigned short', possible loss of data
+  surface.cpp
+  threads.cpp
+  Generating Code...
+  evolution_vs2017.vcxproj -> C:\Users\Tom\Documents\UU\Opt-and-Vect\Assignment1\infomov2018_assignment1_evolution\evolution.exe
